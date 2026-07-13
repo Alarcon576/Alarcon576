@@ -20,7 +20,7 @@ Passionate about creating innovative solutions through software development, lea
 ---
 ## 📈 GitHub Stats
 
-<p align="center">
+<p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alarcon576&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
 
@@ -96,13 +96,6 @@ A healthcare platform that connects patients and doctors, integrating Artificial
 - Laravel
 - MySQL
 - OpenAI API
-
----
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: www.linkedin.com/in/tu-linkedin
-- 📧 Email: tuemail@gmail.com
 
 ---
 
